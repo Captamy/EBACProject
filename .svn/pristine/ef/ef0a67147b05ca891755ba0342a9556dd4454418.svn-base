@@ -1,0 +1,10 @@
+[/Script/EngineSettings.GeneralProjectSettings]
+ProjectID=2F85611845449B0434D83092F75D671B
+ProjectName=Third Person BP Game Template
+
+[StartupActions]
+bAddPacks=True
+InsertPack=(PackSource="StarterContent.upack",PackName="StarterContent")
+
+[SectionsToSave]
++Section=StartupActions
